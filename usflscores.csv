@@ -1,0 +1,479 @@
+,Day,Date,VenueType,team2,score,result,OT,Location,Venue,Attendance,team1,season,score2,score1
+782,Sat,2/23/1985,A,TampaBayBandits,7-35,L,,"Tampa, FL",Tampa Stadium,45095,OrlandoRenegades,1985.0,35.0,7.0
+828,Sun,2/24/1985,A,OaklandInvaders,10-31,L,,"Oakland, CA",Oakland-Alameda County Coliseum,23622,DenverGold,1985.0,31.0,10.0
+932,Sun,2/24/1985,H,HoustonGamblers,33-34,L,,"Los Angeles, CA",Memorial Coliseum,18828,LosAngelesExpress,1985.0,34.0,33.0
+892,Sun,2/24/1985,A,ArizonaOutlaws,7-9,L,,"Tempe, AZ",Sun Devil Stadium,20351,PortlandBreakers,1985.0,9.0,7.0
+668,Sun,2/24/1985,A,BirminghamStallions,28-38,L,,"Birmingham, AL",Legion Field,34785,NewJerseyGenerals,1985.0,38.0,28.0
+762,Sun,2/24/1985,H,BaltimoreStars,22-14,W,,"Jacksonville, FL",Gator Bowl,51045,JacksonvilleBulls,1985.0,14.0,22.0
+912,Mon,2/25/1985,H,MemphisShowboats,3-20,L,,"San Antonio, TX",Alamo Stadium,10983,SanAntonioGunslingers,1985.0,20.0,3.0
+494,Sun,2/26/1984,H,NewOrleansBreakers,10-13,L,,"San Antonio, TX",Alamo Stadium,18233,SanAntonioGunslingers,1984.0,13.0,10.0
+450,Sun,2/26/1984,A,TampaBayBandits,17-20,L,,"Tampa, FL",Tampa Stadium,42915,HoustonGamblers,1984.0,20.0,17.0
+430,Sun,2/26/1984,H,WashingtonFederals,53-14,W,,"Jacksonville, FL",Gator Bowl,49392,JacksonvilleBulls,1984.0,14.0,53.0
+514,Sun,2/26/1984,H,PittsburghMaulers,7-3,W,,"Tulsa, OK",Skelly Stadium,15937,OklahomaOutlaws,1984.0,3.0,7.0
+410,Sun,2/26/1984,H,PhiladelphiaStars,9-17,L,,"Memphis, TN",Liberty Bowl,28098,MemphisShowboats,1984.0,17.0,9.0
+343,Sun,2/26/1984,H,NewJerseyGenerals,6-17,L,,"Birmingham, AL",Legion Field,62300,BirminghamStallions,1984.0,17.0,6.0
+624,Sun,2/26/1984,A,ArizonaWranglers,7-35,L,,"Tempe, AZ",Sun Devil Stadium,29176,OaklandInvaders,1984.0,35.0,7.0
+604,Sun,2/26/1984,A,LosAngelesExpress,27-10,W,,"Los Angeles, CA",Memorial Coliseum,32082,DenverGold,1984.0,10.0,27.0
+534,Mon,2/27/1984,A,MichiganPanthers,18-20,L,,"Pontiac, MI",Pontiac Silverdome,22428,ChicagoBlitz,1984.0,20.0,18.0
+783,Fri,3/1/1985,H,NewJerseyGenerals,10-28,L,,"Orlando, FL",Orlando Stadium,32748,OrlandoRenegades,1985.0,28.0,10.0
+432,Sat,3/10/1984,A,TampaBayBandits,25-28,L,,"Tampa, FL",Tampa Stadium,51274,JacksonvilleBulls,1984.0,28.0,25.0
+934,Sun,3/10/1985,A,NewJerseyGenerals,24-35,L,,"East Rutherford, NJ",Giants Stadium,58741,LosAngelesExpress,1985.0,35.0,24.0
+894,Sun,3/10/1985,A,DenverGold,17-29,L,,"Denver, CO",Mile High Stadium,17870,PortlandBreakers,1985.0,29.0,17.0
+914,Sun,3/10/1985,H,TampaBayBandits,18-31,L,,"San Antonio, TX",Alamo Stadium,21822,SanAntonioGunslingers,1985.0,31.0,18.0
+852,Sun,3/10/1985,A,OaklandInvaders,42-7,W,,"Oakland, CA",Oakland-Alameda County Coliseum,16037,HoustonGamblers,1985.0,7.0,42.0
+283,Sun,3/11/1984,H,PhiladelphiaStars,17-14,W,,"East Rutherford, NJ",Giants Stadium,46716,NewJerseyGenerals,1984.0,14.0,17.0
+345,Sun,3/11/1984,A,PittsburghMaulers,30-18,W,,"Pittsburgh, PA",Three Rivers Stadium,53771,BirminghamStallions,1984.0,18.0,30.0
+412,Sun,3/11/1984,A,NewOrleansBreakers,14-37,L,,"New Orleans, LA",Louisiana Superdome,45269,MemphisShowboats,1984.0,37.0,14.0
+536,Sun,3/11/1984,H,HoustonGamblers,36-45,L,,"Chicago, IL",Soldier Field,7808,ChicagoBlitz,1984.0,45.0,36.0
+516,Sun,3/11/1984,H,SanAntonioGunslingers,14-7,W,,"Tulsa, OK",Skelly Stadium,24311,OklahomaOutlaws,1984.0,7.0,14.0
+626,Sun,3/11/1984,H,LosAngelesExpress,0-10,L,,"Oakland, CA",Oakland-Alameda County Coliseum,23479,OaklandInvaders,1984.0,10.0,0.0
+606,Sun,3/11/1984,H,MichiganPanthers,0-28,L,,"Denver, CO",Mile High Stadium,41263,DenverGold,1984.0,28.0,0.0
+874,Mon,3/11/1985,H,JacksonvilleBulls,41-21,W,,"Tempe, AZ",Sun Devil Stadium,13025,ArizonaOutlaws,1985.0,21.0,41.0
+133,Sat,3/12/1983,H,MichiganPanthers,19-7,W,,"Tampa, FL",Tampa Stadium,38789,TampaBayBandits,1983.0,7.0,19.0
+235,Sat,3/12/1983,H,ChicagoBlitz,30-29,W,,"Tempe, AZ",Sun Devil Stadium,28434,ArizonaWranglers,1983.0,29.0,30.0
+580,Mon,3/12/1984,H,WashingtonFederals,37-7,W,,"Tempe, AZ",Sun Devil Stadium,25218,ArizonaWranglers,1984.0,7.0,37.0
+173,Sun,3/13/1983,H,BirminghamStallions,14-20,L,OT,"Oakland, CA",Oakland-Alameda County Coliseum,47344,OaklandInvaders,1983.0,20.0,14.0
+215,Sun,3/13/1983,H,BostonBreakers,7-21,L,,"Denver, CO",Mile High Stadium,41926,DenverGold,1983.0,21.0,7.0
+47,Sun,3/13/1983,A,PhiladelphiaStars,0-25,L,,"Philadelphia, PA",Veterans Stadium,38205,NewJerseyGenerals,1983.0,25.0,0.0
+195,Mon,3/14/1983,H,WashingtonFederals,20-3,W,,"Los Angeles, CA",Memorial Coliseum,22453,LosAngelesExpress,1983.0,3.0,20.0
+895,Sat,3/16/1985,H,OrlandoRenegades,23-17,W,,"Portland, OR",Civic Stadium,25885,PortlandBreakers,1985.0,17.0,23.0
+935,Sat,3/16/1985,H,SanAntonioGunslingers,38-7,W,,"Los Angeles, CA",Memorial Coliseum,10410,LosAngelesExpress,1985.0,7.0,38.0
+875,Sat,3/16/1985,A,TampaBayBandits,13-23,L,,"Tampa, FL",Tampa Stadium,30000,ArizonaOutlaws,1985.0,23.0,13.0
+537,Sat,3/17/1984,H,OklahomaOutlaws,14-17,L,,"Chicago, IL",Soldier Field,6206,ChicagoBlitz,1984.0,17.0,14.0
+413,Sat,3/17/1984,A,BirminghamStallions,6-54,L,,"Birmingham, AL",Legion Field,41500,MemphisShowboats,1984.0,54.0,6.0
+557,Sat,3/17/1984,A,SanAntonioGunslingers,13-12,W,,"San Antonio, TX",Alamo Stadium,9821,LosAngelesExpress,1984.0,12.0,13.0
+805,Sun,3/17/1985,H,JacksonvilleBulls,42-36,W,,"Oakland, CA",Oakland-Alameda County Coliseum,16678,OaklandInvaders,1985.0,36.0,42.0
+717,Sun,3/17/1985,H,NewJerseyGenerals,29-9,W,,"College Park, MD",Byrd Stadium,31026,BaltimoreStars,1985.0,9.0,29.0
+693,Sun,3/17/1985,A,BirminghamStallions,34-19,W,,"Birmingham, AL",Legion Field,34500,MemphisShowboats,1985.0,19.0,34.0
+607,Sun,3/18/1984,H,TampaBayBandits,36-30,W,,"Denver, CO",Mile High Stadium,19173,DenverGold,1984.0,30.0,36.0
+453,Sun,3/18/1984,H,NewJerseyGenerals,32-25,W,,"Houston, TX",Astrodome,35532,HoustonGamblers,1984.0,25.0,32.0
+581,Sun,3/18/1984,A,MichiganPanthers,26-31,L,,"Pontiac, MI",Pontiac Silverdome,43130,ArizonaWranglers,1984.0,31.0,26.0
+627,Sun,3/18/1984,A,PhiladelphiaStars,7-28,L,,"Philadelphia, PA",Veterans Stadium,30284,OaklandInvaders,1984.0,28.0,7.0
+326,Sun,3/18/1984,A,WashingtonFederals,16-7,W,,"Washington, DC",RFK Stadium,10121,PittsburghMaulers,1984.0,7.0,16.0
+853,Mon,3/18/1985,H,DenverGold,36-17,W,,"Houston, TX",Astrodome,33747,HoustonGamblers,1985.0,17.0,36.0
+236,Sat,3/19/1983,H,LosAngelesExpress,21-14,W,,"Tempe, AZ",Sun Devil Stadium,29335,ArizonaWranglers,1983.0,14.0,21.0
+174,Sat,3/19/1983,A,MichiganPanthers,33-27,W,,"Pontiac, MI",Pontiac Silverdome,28952,OaklandInvaders,1983.0,27.0,33.0
+433,Mon,3/19/1984,H,NewOrleansBreakers,9-38,L,,"Jacksonville, FL",Gator Bowl,48303,JacksonvilleBulls,1984.0,38.0,9.0
+579,Fri,3/2/1984,H,TampaBayBandits,17-20,L,,"Tempe, AZ",Sun Devil Stadium,31264,ArizonaWranglers,1984.0,20.0,17.0
+933,Sat,3/2/1985,A,PortlandBreakers,10-14,L,,"Portland, OR",Civic Stadium,25232,LosAngelesExpress,1985.0,14.0,10.0
+68,Sun,3/20/1983,A,BostonBreakers,16-19,L,,"Boston, MA",Nickerson Field,18430,WashingtonFederals,1983.0,19.0,16.0
+134,Sun,3/20/1983,A,NewJerseyGenerals,32-9,W,,"East Rutherford, NJ",Giants Stadium,53307,TampaBayBandits,1983.0,9.0,32.0
+216,Sun,3/20/1983,A,ChicagoBlitz,16-13,W,,"Chicago, IL",Soldier Field,22600,DenverGold,1983.0,13.0,16.0
+154,Mon,3/21/1983,H,PhiladelphiaStars,10-17,L,,"Birmingham, AL",Legion Field,12850,BirminghamStallions,1983.0,17.0,10.0
+786,Thu,3/21/1985,A,JacksonvilleBulls,31-34,L,,"Jacksonville, FL",Gator Bowl,31883,OrlandoRenegades,1985.0,34.0,31.0
+936,Sat,3/23/1985,A,ArizonaOutlaws,13-27,L,,"Tempe, AZ",Sun Devil Stadium,20835,LosAngelesExpress,1985.0,27.0,13.0
+327,Sat,3/24/1984,H,PhiladelphiaStars,10-25,L,,"Pittsburgh, PA",Three Rivers Stadium,24341,PittsburghMaulers,1984.0,25.0,10.0
+582,Sat,3/24/1984,H,OklahomaOutlaws,49-7,W,,"Tempe, AZ",Sun Devil Stadium,29434,ArizonaWranglers,1984.0,7.0,49.0
+628,Sat,3/24/1984,A,SanAntonioGunslingers,10-14,L,,"San Antonio, TX",Alamo Stadium,11012,OaklandInvaders,1984.0,14.0,10.0
+806,Sun,3/24/1985,A,MemphisShowboats,31-19,W,,"Memphis, TN",Liberty Bowl,28773,OaklandInvaders,1985.0,19.0,31.0
+718,Sun,3/24/1985,H,BirminghamStallions,3-7,L,,"College Park, MD",Byrd Stadium,14529,BaltimoreStars,1985.0,7.0,3.0
+744,Sun,3/24/1985,A,NewJerseyGenerals,24-28,L,,"East Rutherford, NJ",Giants Stadium,41079,TampaBayBandits,1985.0,28.0,24.0
+896,Sun,3/24/1985,A,HoustonGamblers,20-27,L,,"Houston, TX",Astrodome,22031,PortlandBreakers,1985.0,27.0,20.0
+307,Sun,3/25/1984,A,NewJerseyGenerals,6-43,L,,"East Rutherford, NJ",Giants Stadium,38075,WashingtonFederals,1984.0,43.0,6.0
+538,Sun,3/25/1984,A,NewOrleansBreakers,35-41,L,OT,"New Orleans, LA",Louisiana Superdome,43692,ChicagoBlitz,1984.0,41.0,35.0
+608,Sun,3/25/1984,A,MemphisShowboats,28-24,W,,"Memphis, TN",Liberty Bowl,21213,DenverGold,1984.0,24.0,28.0
+558,Sun,3/25/1984,H,JacksonvilleBulls,7-13,L,,"Los Angeles, CA",Memorial Coliseum,8000,LosAngelesExpress,1984.0,13.0,7.0
+916,Mon,3/25/1985,A,DenverGold,2-16,L,,"Denver, CO",Mile High Stadium,13901,SanAntonioGunslingers,1985.0,16.0,2.0
+237,Sat,3/26/1983,A,BirminghamStallions,7-16,L,,"Birmingham, AL",Legion Field,5000,ArizonaWranglers,1983.0,16.0,7.0
+371,Mon,3/26/1984,H,BirminghamStallions,9-27,L,,"Tampa, FL",Tampa Stadium,37899,TampaBayBandits,1984.0,27.0,9.0
+476,Mon,3/26/1984,A,HoustonGamblers,52-34,W,,"Houston, TX",Astrodome,38754,MichiganPanthers,1984.0,34.0,52.0
+89,Sun,3/27/1983,A,WashingtonFederals,16-22,L,OT,"Washington, DC",RFK Stadium,11414,MichiganPanthers,1983.0,22.0,16.0
+135,Sun,3/27/1983,A,PhiladelphiaStars,27-22,W,,"Philadelphia, PA",Veterans Stadium,18718,TampaBayBandits,1983.0,22.0,27.0
+49,Sun,3/27/1983,H,BostonBreakers,21-31,L,,"East Rutherford, NJ",Giants Stadium,41218,NewJerseyGenerals,1983.0,31.0,21.0
+197,Sun,3/27/1983,A,ChicagoBlitz,14-20,L,,"Chicago, IL",Soldier Field,10936,LosAngelesExpress,1983.0,20.0,14.0
+217,Mon,3/28/1983,H,OaklandInvaders,22-12,W,,"Denver, CO",Mile High Stadium,38720,DenverGold,1983.0,12.0,22.0
+745,Fri,3/29/1985,A,MemphisShowboats,28-20,W,,"Memphis, TN",Liberty Bowl,23952,TampaBayBandits,1985.0,20.0,28.0
+605,Sat,3/3/1984,A,OklahomaOutlaws,17-14,W,OT,"Tulsa, OK",Skelly Stadium,25403,DenverGold,1984.0,14.0,17.0
+473,Sat,3/3/1984,H,PittsburghMaulers,27-24,W,,"Pontiac, MI",Pontiac Silverdome,44485,MichiganPanthers,1984.0,24.0,27.0
+803,Sun,3/3/1985,H,BaltimoreStars,17-17,T,OT,"Oakland, CA",Oakland-Alameda County Coliseum,20495,OaklandInvaders,1985.0,17.0,17.0
+829,Sun,3/3/1985,A,BirminghamStallions,40-23,W,,"Birmingham, AL",Legion Field,27400,DenverGold,1985.0,23.0,40.0
+913,Sun,3/3/1985,H,ArizonaOutlaws,16-14,W,,"San Antonio, TX",Alamo Stadium,11151,SanAntonioGunslingers,1985.0,14.0,16.0
+851,Sun,3/3/1985,A,TampaBayBandits,50-28,W,,"Tampa, FL",Tampa Stadium,30000,HoustonGamblers,1985.0,28.0,50.0
+767,Sat,3/30/1985,A,BirminghamStallions,18-25,L,,"Birmingham, AL",Legion Field,41200,JacksonvilleBulls,1985.0,25.0,18.0
+877,Sat,3/30/1985,H,NewJerseyGenerals,31-13,W,,"Tempe, AZ",Sun Devil Stadium,30432,ArizonaOutlaws,1985.0,13.0,31.0
+519,Sat,3/31/1984,H,HoustonGamblers,31-28,W,OT,"Tulsa, OK",Skelly Stadium,17266,OklahomaOutlaws,1984.0,28.0,31.0
+539,Sat,3/31/1984,A,WashingtonFederals,21-20,W,,"Washington, DC",RFK Stadium,7373,ChicagoBlitz,1984.0,20.0,21.0
+435,Sat,3/31/1984,A,MemphisShowboats,24-27,L,,"Memphis, TN",Liberty Bowl,17180,JacksonvilleBulls,1984.0,27.0,24.0
+855,Sun,3/31/1985,H,BaltimoreStars,14-27,L,,"Houston, TX",Astrodome,24166,HoustonGamblers,1985.0,27.0,14.0
+833,Sun,3/31/1985,H,OrlandoRenegades,21-17,W,,"Denver, CO",Mile High Stadium,10217,DenverGold,1985.0,17.0,21.0
+937,Sun,3/31/1985,H,OaklandInvaders,6-30,L,,"Los Angeles, CA",Memorial Coliseum,11619,LosAngelesExpress,1985.0,30.0,6.0
+535,Sun,3/4/1984,A,MemphisShowboats,13-23,L,,"Memphis, TN",Liberty Bowl,10152,ChicagoBlitz,1984.0,23.0,13.0
+555,Sun,3/4/1984,H,BirminghamStallions,14-21,L,,"Los Angeles, CA",Memorial Coliseum,14789,LosAngelesExpress,1984.0,21.0,14.0
+304,Sun,3/4/1984,H,PhiladelphiaStars,6-17,L,,"Washington, DC",RFK Stadium,12067,WashingtonFederals,1984.0,17.0,6.0
+431,Sun,3/4/1984,H,NewJerseyGenerals,26-28,L,,"Jacksonville, FL",Gator Bowl,73227,JacksonvilleBulls,1984.0,28.0,26.0
+625,Sun,3/4/1984,H,NewOrleansBreakers,0-13,L,,"Oakland, CA",Oakland-Alameda County Coliseum,41200,OaklandInvaders,1984.0,13.0,0.0
+763,Mon,3/4/1985,H,MemphisShowboats,14-24,L,,"Jacksonville, FL",Gator Bowl,40112,JacksonvilleBulls,1985.0,24.0,14.0
+495,Mon,3/5/1984,H,HoustonGamblers,7-35,L,,"San Antonio, TX",Alamo Stadium,10023,SanAntonioGunslingers,1984.0,35.0,7.0
+194,Sun,3/6/1983,H,NewJerseyGenerals,20-15,W,,"Los Angeles, CA",Memorial Coliseum,34002,LosAngelesExpress,1983.0,15.0,20.0
+234,Sun,3/6/1983,H,OaklandInvaders,0-24,L,,"Tempe, AZ",Sun Devil Stadium,45167,ArizonaWranglers,1983.0,24.0,0.0
+110,Sun,3/6/1983,A,WashingtonFederals,28-7,W,,"Washington, DC",RFK Stadium,38010,ChicagoBlitz,1983.0,7.0,28.0
+214,Sun,3/6/1983,H,PhiladelphiaStars,7-13,L,,"Denver, CO",Mile High Stadium,45102,DenverGold,1983.0,13.0,7.0
+132,Sun,3/6/1983,H,BostonBreakers,21-17,W,,"Tampa, FL",Tampa Stadium,42437,TampaBayBandits,1983.0,17.0,21.0
+152,Mon,3/7/1983,H,MichiganPanthers,7-9,L,,"Birmingham, AL",Legion Field,30305,BirminghamStallions,1983.0,9.0,7.0
+716,Sat,3/9/1985,A,MemphisShowboats,19-21,L,,"Memphis, TN",Liberty Bowl,37466,BaltimoreStars,1985.0,21.0,19.0
+784,Sat,3/9/1985,H,BirminghamStallions,10-34,L,,"Orlando, FL",Orlando Stadium,20000,OrlandoRenegades,1985.0,34.0,10.0
+372,Sun,4/1/1984,A,PhiladelphiaStars,24-38,L,,"Philadelphia, PA",Veterans Stadium,30270,TampaBayBandits,1984.0,38.0,24.0
+499,Sun,4/1/1984,A,MichiganPanthers,10-26,L,,"Pontiac, MI",Pontiac Silverdome,42692,SanAntonioGunslingers,1984.0,26.0,10.0
+609,Sun,4/1/1984,H,ArizonaWranglers,17-7,W,,"Denver, CO",Mile High Stadium,31666,DenverGold,1984.0,7.0,17.0
+559,Sun,4/1/1984,H,NewJerseyGenerals,10-26,L,,"Los Angeles, CA",Memorial Coliseum,19853,LosAngelesExpress,1984.0,26.0,10.0
+629,Sun,4/1/1984,A,PittsburghMaulers,14-28,L,,"Pittsburgh, PA",Three Rivers Stadium,22408,OaklandInvaders,1984.0,28.0,14.0
+917,Mon,4/1/1985,A,PortlandBreakers,33-0,W,,"Portland, OR",Civic Stadium,19882,SanAntonioGunslingers,1985.0,0.0,33.0
+177,Sun,4/10/1983,A,BostonBreakers,26-7,W,,"Boston, MA",Nickerson Field,7984,OaklandInvaders,1983.0,7.0,26.0
+91,Sun,4/10/1983,A,NewJerseyGenerals,21-6,W,,"East Rutherford, NJ",Giants Stadium,17648,MichiganPanthers,1983.0,6.0,21.0
+199,Sun,4/10/1983,H,PhiladelphiaStars,3-17,L,,"Los Angeles, CA",Memorial Coliseum,18671,LosAngelesExpress,1983.0,17.0,3.0
+157,Sun,4/10/1983,A,ChicagoBlitz,11-22,L,,"Chicago, IL",Soldier Field,13859,BirminghamStallions,1983.0,22.0,11.0
+239,Mon,4/11/1983,A,WashingtonFederals,22-21,W,,"Washington, DC",RFK Stadium,13936,ArizonaWranglers,1983.0,21.0,22.0
+919,Fri,4/12/1985,A,JacksonvilleBulls,17-28,L,,"Jacksonville, FL",Gator Bowl,32097,SanAntonioGunslingers,1985.0,28.0,17.0
+809,Sat,4/13/1985,A,BirminghamStallions,17-20,L,,"Birmingham, AL",Legion Field,44500,OaklandInvaders,1985.0,20.0,17.0
+611,Sat,4/14/1984,A,PittsburghMaulers,31-21,W,,"Pittsburgh, PA",Three Rivers Stadium,16773,DenverGold,1984.0,21.0,31.0
+501,Sat,4/14/1984,A,JacksonvilleBulls,20-0,W,,"Jacksonville, FL",Gator Bowl,35084,SanAntonioGunslingers,1984.0,0.0,20.0
+561,Sat,4/14/1984,H,MemphisShowboats,23-17,W,OT,"Los Angeles, CA",Memorial Coliseum,10049,LosAngelesExpress,1984.0,17.0,23.0
+521,Sat,4/14/1984,A,WashingtonFederals,20-16,W,,"Washington, DC",RFK Stadium,6075,OklahomaOutlaws,1984.0,16.0,20.0
+879,Sun,4/14/1985,H,OrlandoRenegades,19-24,L,,"Tempe, AZ",Sun Devil Stadium,32169,ArizonaOutlaws,1985.0,24.0,19.0
+939,Sun,4/14/1985,A,HoustonGamblers,18-17,W,,"Houston, TX",Astrodome,20193,LosAngelesExpress,1985.0,17.0,18.0
+721,Sun,4/14/1985,H,MemphisShowboats,10-13,L,,"College Park, MD",Byrd Stadium,15728,BaltimoreStars,1985.0,13.0,10.0
+899,Sun,4/14/1985,A,NewJerseyGenerals,7-34,L,,"East Rutherford, NJ",Giants Stadium,38245,PortlandBreakers,1985.0,34.0,7.0
+479,Sun,4/15/1984,H,BirminghamStallions,17-28,L,,"Pontiac, MI",Pontiac Silverdome,42655,MichiganPanthers,1984.0,28.0,17.0
+585,Sun,4/15/1984,A,NewJerseyGenerals,20-3,W,,"East Rutherford, NJ",Giants Stadium,31917,ArizonaWranglers,1984.0,3.0,20.0
+541,Sun,4/15/1984,A,PhiladelphiaStars,7-41,L,,"Philadelphia, PA",Veterans Stadium,17417,ChicagoBlitz,1984.0,41.0,7.0
+835,Mon,4/15/1985,A,TampaBayBandits,17-33,L,,"Tampa, FL",Tampa Stadium,40000,DenverGold,1985.0,33.0,17.0
+178,Sat,4/16/1983,H,PhiladelphiaStars,7-17,L,,"Oakland, CA",Oakland-Alameda County Coliseum,34901,OaklandInvaders,1983.0,17.0,7.0
+397,Mon,4/16/1984,H,TampaBayBandits,13-35,L,,"New Orleans, LA",Louisiana Superdome,35634,NewOrleansBreakers,1984.0,35.0,13.0
+631,Mon,4/16/1984,H,HoustonGamblers,27-35,L,,"Oakland, CA",Oakland-Alameda County Coliseum,18320,OaklandInvaders,1984.0,35.0,27.0
+952,Sat,4/16/2022,A,BirminghamStallions,24-28,L,,"Birmingham, AL",Protective Stadium,,NewJerseyGenerals,2022.0,28.0,24.0
+72,Sun,4/17/1983,A,NewJerseyGenerals,22-23,L,,"East Rutherford, NJ",Giants Stadium,35381,WashingtonFederals,1983.0,23.0,22.0
+220,Sun,4/17/1983,A,BirminghamStallions,9-7,W,,"Birmingham, AL",Legion Field,26250,DenverGold,1983.0,7.0,9.0
+240,Sun,4/17/1983,H,BostonBreakers,23-44,L,,"Tempe, AZ",Sun Devil Stadium,20911,ArizonaWranglers,1983.0,44.0,23.0
+116,Sun,4/17/1983,A,MichiganPanthers,12-17,L,,"Pontiac, MI",Pontiac Silverdome,11634,ChicagoBlitz,1983.0,17.0,12.0
+1096,Sun,4/17/2022,A,NewOrleansBreakers,17-23,L,,"Birmingham, AL",Protective Stadium,,PhiladelphiaStars,2022.0,23.0,17.0
+1058,Sun,4/17/2022,A,MichiganPanthers,17-12,W,,"Birmingham, AL",Protective Stadium,,HoustonGamblers,2022.0,12.0,17.0
+200,Mon,4/18/1983,A,TampaBayBandits,18-13,W,,"Tampa, FL",Tampa Stadium,32223,LosAngelesExpress,1983.0,13.0,18.0
+1070,Mon,4/18/2022,A,PittsburghMaulers,17-3,W,,"Birmingham, AL",Protective Stadium,,TampaBayBandits,2022.0,3.0,17.0
+698,Fri,4/19/1985,H,NewJerseyGenerals,18-21,L,,"Memphis, TN",Liberty Bowl,44339,MemphisShowboats,1985.0,21.0,18.0
+136,Sat,4/2/1983,H,ChicagoBlitz,3-42,L,,"Tampa, FL",Tampa Stadium,46585,TampaBayBandits,1983.0,42.0,3.0
+156,Sat,4/2/1983,A,BostonBreakers,16-27,L,,"Boston, MA",Nickerson Field,10976,BirminghamStallions,1983.0,27.0,16.0
+395,Mon,4/2/1984,A,BirminghamStallions,17-31,L,,"Birmingham, AL",Legion Field,28100,NewOrleansBreakers,1984.0,31.0,17.0
+562,Fri,4/20/1984,A,ChicagoBlitz,29-49,L,,"Chicago, IL",Soldier Field,11713,LosAngelesExpress,1984.0,49.0,29.0
+438,Fri,4/20/1984,H,MemphisShowboats,12-10,W,,"Jacksonville, FL",Gator Bowl,36256,JacksonvilleBulls,1984.0,10.0,12.0
+940,Sat,4/20/1985,A,DenverGold,0-51,L,,"Denver, CO",Mile High Stadium,13165,LosAngelesExpress,1985.0,51.0,0.0
+790,Sat,4/20/1985,H,JacksonvilleBulls,10-31,L,,"Orlando, FL",Orlando Stadium,34338,OrlandoRenegades,1985.0,31.0,10.0
+586,Sat,4/21/1984,A,HoustonGamblers,24-37,L,,"Houston, TX",Astrodome,23117,ArizonaWranglers,1984.0,37.0,24.0
+522,Sat,4/21/1984,A,BirminghamStallions,17-41,L,,"Birmingham, AL",Legion Field,41653,OklahomaOutlaws,1984.0,41.0,17.0
+748,Sun,4/21/1985,A,BirminghamStallions,3-30,L,,"Birmingham, AL",Legion Field,28900,TampaBayBandits,1985.0,30.0,3.0
+900,Sun,4/21/1985,A,BaltimoreStars,17-26,L,,"College Park, MD",Byrd Stadium,14832,PortlandBreakers,1985.0,26.0,17.0
+880,Sun,4/21/1985,H,HoustonGamblers,17-33,L,,"Tempe, AZ",Sun Devil Stadium,16640,ArizonaOutlaws,1985.0,33.0,17.0
+502,Sun,4/22/1984,H,PhiladelphiaStars,14-20,L,,"San Antonio, TX",Alamo Stadium,16590,SanAntonioGunslingers,1984.0,20.0,14.0
+632,Sun,4/22/1984,H,WashingtonFederals,17-31,L,,"Oakland, CA",Oakland-Alameda County Coliseum,14828,OaklandInvaders,1984.0,31.0,17.0
+612,Sun,4/22/1984,A,NewOrleansBreakers,18-20,L,,"New Orleans, LA",Louisiana Superdome,22139,DenverGold,1984.0,20.0,18.0
+331,Sun,4/22/1984,H,NewJerseyGenerals,10-14,L,,"Pittsburgh, PA",Three Rivers Stadium,14418,PittsburghMaulers,1984.0,14.0,10.0
+920,Mon,4/22/1985,A,OaklandInvaders,20-27,L,,"Oakland, CA",Oakland-Alameda County Coliseum,18215,SanAntonioGunslingers,1985.0,27.0,20.0
+1021,Fri,4/22/2022,A,NewJerseyGenerals,6-10,L,,"Birmingham, AL",Protective Stadium,,MichiganPanthers,2022.0,10.0,6.0
+201,Sat,4/23/1983,A,MichiganPanthers,24-34,L,,"Pontiac, MI",Pontiac Silverdome,13184,LosAngelesExpress,1983.0,34.0,24.0
+241,Sat,4/23/1983,H,DenverGold,24-3,W,,"Tempe, AZ",Sun Devil Stadium,21557,ArizonaWranglers,1983.0,3.0,24.0
+480,Mon,4/23/1984,H,TampaBayBandits,7-20,L,,"Pontiac, MI",Pontiac Silverdome,31433,MichiganPanthers,1984.0,20.0,7.0
+1059,Sat,4/23/2022,H,BirminghamStallions,28-33,L,,"Birmingham, AL",Protective Stadium,,HoustonGamblers,2022.0,33.0,28.0
+1097,Sat,4/23/2022,H,PittsburghMaulers,30-23,W,,"Birmingham, AL",Protective Stadium,,PhiladelphiaStars,2022.0,23.0,30.0
+967,Sat,4/23/2022,H,BirminghamStallions,28-33,L,,"Birmingham, AL",Protective Stadium,,HoustonGamblers,2022.0,33.0,28.0
+33,Sun,4/24/1983,A,PhiladelphiaStars,16-23,L,,"Philadelphia, PA",Veterans Stadium,10257,BostonBreakers,1983.0,23.0,16.0
+179,Sun,4/24/1983,A,BirminghamStallions,9-21,L,,"Birmingham, AL",Legion Field,18500,OaklandInvaders,1983.0,21.0,9.0
+139,Sun,4/24/1983,A,WashingtonFederals,30-23,W,,"Washington, DC",RFK Stadium,9070,TampaBayBandits,1983.0,23.0,30.0
+1083,Sun,4/24/2022,A,TampaBayBandits,34-3,W,,"Birmingham, AL",Protective Stadium,,NewOrleansBreakers,2022.0,3.0,34.0
+117,Mon,4/25/1983,H,NewJerseyGenerals,17-14,W,OT,"Chicago, IL",Soldier Field,32182,ChicagoBlitz,1983.0,14.0,17.0
+837,Fri,4/26/1985,H,MemphisShowboats,17-33,L,,"Denver, CO",Mile High Stadium,8207,DenverGold,1985.0,33.0,17.0
+523,Fri,4/27/1984,H,JacksonvilleBulls,6-34,L,,"Tulsa, OK",Skelly Stadium,29324,OklahomaOutlaws,1984.0,34.0,6.0
+419,Fri,4/27/1984,H,PittsburghMaulers,17-7,W,,"Memphis, TN",Liberty Bowl,30640,MemphisShowboats,1984.0,7.0,17.0
+399,Fri,4/27/1984,A,PhiladelphiaStars,0-35,L,,"Philadelphia, PA",Veterans Stadium,34011,NewOrleansBreakers,1984.0,35.0,0.0
+881,Sat,4/27/1985,A,OaklandInvaders,11-27,L,,"Oakland, CA",Oakland-Alameda County Coliseum,12972,ArizonaOutlaws,1985.0,27.0,11.0
+941,Sat,4/27/1985,H,PortlandBreakers,17-12,W,,"Los Angeles, CA",Memorial Coliseum,8410,LosAngelesExpress,1985.0,12.0,17.0
+587,Sat,4/28/1984,H,SanAntonioGunslingers,23-24,L,,"Tempe, AZ",Sun Devil Stadium,12259,ArizonaWranglers,1984.0,24.0,23.0
+376,Sat,4/28/1984,H,WashingtonFederals,37-19,W,,"Tampa, FL",Tampa Stadium,42810,TampaBayBandits,1984.0,19.0,37.0
+771,Sun,4/28/1985,H,BirminghamStallions,27-17,W,,"Jacksonville, FL",Gator Bowl,41298,JacksonvilleBulls,1985.0,17.0,27.0
+749,Sun,4/28/1985,H,BaltimoreStars,28-14,W,,"Tampa, FL",Tampa Stadium,25000,TampaBayBandits,1985.0,14.0,28.0
+921,Sun,4/28/1985,H,HoustonGamblers,29-38,L,,"San Antonio, TX",Alamo Stadium,9723,SanAntonioGunslingers,1985.0,38.0,29.0
+633,Sun,4/29/1984,A,ChicagoBlitz,17-13,W,,"Chicago, IL",Soldier Field,7802,OaklandInvaders,1984.0,13.0,17.0
+481,Sun,4/29/1984,A,NewJerseyGenerals,21-31,L,,"East Rutherford, NJ",Giants Stadium,50908,MichiganPanthers,1984.0,31.0,21.0
+613,Sun,4/29/1984,H,BirminghamStallions,14-31,L,,"Denver, CO",Mile High Stadium,35262,DenverGold,1984.0,31.0,14.0
+791,Mon,4/29/1985,A,NewJerseyGenerals,7-24,L,,"East Rutherford, NJ",Giants Stadium,38084,OrlandoRenegades,1985.0,24.0,7.0
+238,Sun,4/3/1983,H,NewJerseyGenerals,21-35,L,,"Tempe, AZ",Sun Devil Stadium,31382,ArizonaWranglers,1983.0,35.0,21.0
+70,Sun,4/3/1983,A,PhiladelphiaStars,3-34,L,,"Philadelphia, PA",Veterans Stadium,10802,WashingtonFederals,1983.0,34.0,3.0
+198,Sun,4/3/1983,H,OaklandInvaders,10-7,W,,"Los Angeles, CA",Memorial Coliseum,17139,LosAngelesExpress,1983.0,7.0,10.0
+140,Sat,4/30/1983,H,PhiladelphiaStars,10-24,L,,"Tampa, FL",Tampa Stadium,41559,TampaBayBandits,1983.0,24.0,10.0
+563,Mon,4/30/1984,A,HoustonGamblers,27-24,W,OT,"Houston, TX",Astrodome,30727,LosAngelesExpress,1984.0,24.0,27.0
+1072,Sat,4/30/2022,A,HoustonGamblers,27-26,W,,"Birmingham, AL",Protective Stadium,,TampaBayBandits,2022.0,26.0,27.0
+980,Sat,4/30/2022,H,BirminghamStallions,13-22,L,,"Birmingham, AL",Protective Stadium,,NewOrleansBreakers,2022.0,22.0,13.0
+1084,Sat,4/30/2022,H,BirminghamStallions,13-22,L,,"Birmingham, AL",Protective Stadium,,NewOrleansBreakers,2022.0,22.0,13.0
+1046,Sat,4/30/2022,H,BirminghamStallions,13-22,L,,"Birmingham, AL",Protective Stadium,,NewOrleansBreakers,2022.0,22.0,13.0
+218,Mon,4/4/1983,A,MichiganPanthers,29-21,W,,"Pontiac, MI",Pontiac Silverdome,11279,DenverGold,1983.0,21.0,29.0
+788,Thu,4/4/1985,H,MemphisShowboats,28-17,W,,"Orlando, FL",Orlando Stadium,21223,OrlandoRenegades,1985.0,17.0,28.0
+768,Sat,4/6/1985,A,TampaBayBandits,17-31,L,,"Tampa, FL",Tampa Stadium,40000,JacksonvilleBulls,1985.0,31.0,17.0
+898,Sat,4/6/1985,H,OaklandInvaders,30-17,W,,"Portland, OR",Civic Stadium,23388,PortlandBreakers,1985.0,17.0,30.0
+630,Sat,4/7/1984,A,TampaBayBandits,0-24,L,,"Tampa, FL",Tampa Stadium,58777,OaklandInvaders,1984.0,24.0,0.0
+436,Sat,4/7/1984,H,BirminghamStallions,17-24,L,,"Jacksonville, FL",Gator Bowl,43654,JacksonvilleBulls,1984.0,24.0,17.0
+540,Sat,4/7/1984,H,SanAntonioGunslingers,16-10,W,OT,"Chicago, IL",Soldier Field,9412,ChicagoBlitz,1984.0,10.0,16.0
+520,Sat,4/7/1984,H,MichiganPanthers,20-17,W,,"Tulsa, OK",Skelly Stadium,21510,OklahomaOutlaws,1984.0,17.0,20.0
+938,Sun,4/7/1985,H,BaltimoreStars,6-17,L,,"Los Angeles, CA",Memorial Coliseum,5637,LosAngelesExpress,1985.0,17.0,6.0
+918,Sun,4/7/1985,H,BirminghamStallions,15-14,W,,"San Antonio, TX",Alamo Stadium,8873,SanAntonioGunslingers,1985.0,14.0,15.0
+856,Sun,4/7/1985,A,NewJerseyGenerals,25-31,L,,"East Rutherford, NJ",Giants Stadium,34573,HoustonGamblers,1985.0,31.0,25.0
+584,Sun,4/8/1984,H,PhiladelphiaStars,21-22,L,,"Tempe, AZ",Sun Devil Stadium,30252,ArizonaWranglers,1984.0,22.0,21.0
+416,Sun,4/8/1984,A,NewJerseyGenerals,10-35,L,,"East Rutherford, NJ",Giants Stadium,43671,MemphisShowboats,1984.0,35.0,10.0
+396,Sun,4/8/1984,H,PittsburghMaulers,27-24,W,,"New Orleans, LA",Louisiana Superdome,39315,NewOrleansBreakers,1984.0,24.0,27.0
+878,Mon,4/8/1985,A,DenverGold,7-28,L,,"Denver, CO",Mile High Stadium,12769,ArizonaOutlaws,1985.0,28.0,7.0
+219,Sat,4/9/1983,H,TampaBayBandits,16-22,L,OT,"Denver, CO",Mile High Stadium,46848,DenverGold,1983.0,22.0,16.0
+456,Mon,4/9/1984,H,WashingtonFederals,31-13,W,,"Houston, TX",Astrodome,16710,HoustonGamblers,1984.0,13.0,31.0
+610,Mon,4/9/1984,H,LosAngelesExpress,35-27,W,,"Denver, CO",Mile High Stadium,19115,DenverGold,1984.0,27.0,35.0
+94,Sun,5/1/1983,A,BostonBreakers,28-24,W,,"Boston, MA",Nickerson Field,10971,MichiganPanthers,1983.0,24.0,28.0
+160,Sun,5/1/1983,A,WashingtonFederals,35-3,W,,"Washington, DC",RFK Stadium,12818,BirminghamStallions,1983.0,3.0,35.0
+202,Sun,5/1/1983,H,ChicagoBlitz,17-38,L,,"Los Angeles, CA",Memorial Coliseum,21123,LosAngelesExpress,1983.0,38.0,17.0
+222,Sun,5/1/1983,H,NewJerseyGenerals,29-34,L,,"Denver, CO",Mile High Stadium,47940,DenverGold,1983.0,34.0,29.0
+1006,Sun,5/1/2022,H,NewJerseyGenerals,16-24,L,,"Birmingham, AL",Protective Stadium,,PhiladelphiaStars,2022.0,24.0,16.0
+1034,Sun,5/1/2022,A,MichiganPanthers,0-24,L,,"Birmingham, AL",Protective Stadium,,PittsburghMaulers,2022.0,24.0,0.0
+1098,Sun,5/1/2022,H,NewJerseyGenerals,16-24,L,,"Birmingham, AL",Protective Stadium,,PhiladelphiaStars,2022.0,24.0,16.0
+615,Fri,5/11/1984,H,ChicagoBlitz,17-29,L,,"Denver, CO",Mile High Stadium,45299,DenverGold,1984.0,29.0,17.0
+441,Fri,5/11/1984,A,BirminghamStallions,10-42,L,,"Birmingham, AL",Legion Field,29500,JacksonvilleBulls,1984.0,42.0,10.0
+505,Fri,5/11/1984,A,MemphisShowboats,14-38,L,,"Memphis, TN",Liberty Bowl,32406,SanAntonioGunslingers,1984.0,38.0,14.0
+314,Fri,5/11/1984,H,NewJerseyGenerals,31-17,W,,"Washington, DC",RFK Stadium,11367,WashingtonFederals,1984.0,17.0,31.0
+903,Sat,5/11/1985,A,BirminghamStallions,0-14,L,,"Birmingham, AL",Legion Field,28500,PortlandBreakers,1985.0,14.0,0.0
+943,Sat,5/11/1985,A,OaklandInvaders,6-27,L,,"Oakland, CA",Oakland-Alameda County Coliseum,12482,LosAngelesExpress,1985.0,27.0,6.0
+461,Sat,5/12/1984,A,PittsburghMaulers,47-26,W,,"Pittsburgh, PA",Three Rivers Stadium,24880,HoustonGamblers,1984.0,26.0,47.0
+725,Sun,5/12/1985,A,NewJerseyGenerals,3-10,L,,"East Rutherford, NJ",Giants Stadium,34446,BaltimoreStars,1985.0,10.0,3.0
+861,Sun,5/12/1985,A,MemphisShowboats,15-17,L,,"Memphis, TN",Liberty Bowl,27325,HoustonGamblers,1985.0,17.0,15.0
+883,Sun,5/12/1985,H,DenverGold,28-42,L,,"Tempe, AZ",Sun Devil Stadium,5731,ArizonaOutlaws,1985.0,42.0,28.0
+773,Sun,5/12/1985,H,TampaBayBandits,10-21,L,,"Jacksonville, FL",Gator Bowl,58928,JacksonvilleBulls,1985.0,21.0,10.0
+483,Sun,5/13/1984,A,NewOrleansBreakers,3-10,L,,"New Orleans, LA",Louisiana Superdome,21053,MichiganPanthers,1984.0,10.0,3.0
+565,Sun,5/13/1984,A,PhiladelphiaStars,14-18,L,,"Philadelphia, PA",Veterans Stadium,22391,LosAngelesExpress,1984.0,18.0,14.0
+635,Sun,5/13/1984,H,ArizonaWranglers,14-3,W,,"Oakland, CA",Oakland-Alameda County Coliseum,20004,OaklandInvaders,1984.0,3.0,14.0
+923,Mon,5/13/1985,A,OrlandoRenegades,20-21,L,,"Orlando, FL",Orlando Stadium,15000,SanAntonioGunslingers,1985.0,21.0,20.0
+1074,Fri,5/13/2022,H,MichiganPanthers,27-20,W,,"Birmingham, AL",Protective Stadium,,TampaBayBandits,2022.0,20.0,27.0
+204,Sat,5/14/1983,A,BirminghamStallions,20-35,L,,"Birmingham, AL",Legion Field,42212,LosAngelesExpress,1983.0,35.0,20.0
+525,Mon,5/14/1984,A,TampaBayBandits,21-48,L,,"Tampa, FL",Tampa Stadium,45116,OklahomaOutlaws,1984.0,48.0,21.0
+982,Sat,5/14/2022,A,NewJerseyGenerals,17-27,L,,"Birmingham, AL",Protective Stadium,,NewOrleansBreakers,2022.0,27.0,17.0
+1048,Sat,5/14/2022,A,NewJerseyGenerals,17-27,L,,"Birmingham, AL",Protective Stadium,,NewOrleansBreakers,2022.0,27.0,17.0
+1086,Sat,5/14/2022,A,NewJerseyGenerals,17-27,L,,"Birmingham, AL",Protective Stadium,,NewOrleansBreakers,2022.0,27.0,17.0
+244,Sun,5/15/1983,A,TampaBayBandits,14-20,L,,"Tampa, FL",Tampa Stadium,32327,ArizonaWranglers,1983.0,20.0,14.0
+120,Sun,5/15/1983,A,PhiladelphiaStars,24-31,L,,"Philadelphia, PA",Veterans Stadium,20931,ChicagoBlitz,1983.0,31.0,24.0
+1008,Sun,5/15/2022,H,BirminghamStallions,17-30,L,,"Birmingham, AL",Protective Stadium,,PhiladelphiaStars,2022.0,30.0,17.0
+1062,Sun,5/15/2022,H,PittsburghMaulers,20-21,L,,"Birmingham, AL",Protective Stadium,,HoustonGamblers,2022.0,21.0,20.0
+1100,Sun,5/15/2022,H,BirminghamStallions,17-30,L,,"Birmingham, AL",Protective Stadium,,PhiladelphiaStars,2022.0,30.0,17.0
+224,Mon,5/16/1983,A,BostonBreakers,9-17,L,,"Boston, MA",Nickerson Field,4173,DenverGold,1983.0,17.0,9.0
+96,Mon,5/16/1983,H,NewJerseyGenerals,31-24,W,,"Pontiac, MI",Pontiac Silverdome,32862,MichiganPanthers,1983.0,24.0,31.0
+182,Mon,5/16/1983,H,WashingtonFederals,34-27,W,,"Oakland, CA",Oakland-Alameda County Coliseum,25900,OaklandInvaders,1983.0,27.0,34.0
+794,Fri,5/17/1985,H,BaltimoreStars,21-34,L,,"Orlando, FL",Orlando Stadium,15000,OrlandoRenegades,1985.0,34.0,21.0
+546,Fri,5/18/1984,H,BirminghamStallions,7-41,L,,"Chicago, IL",Soldier Field,8578,ChicagoBlitz,1984.0,41.0,7.0
+924,Sat,5/18/1985,H,OaklandInvaders,21-24,L,,"San Antonio, TX",Alamo Stadium,7118,SanAntonioGunslingers,1985.0,24.0,21.0
+752,Sat,5/18/1985,H,MemphisShowboats,14-38,L,,"Tampa, FL",Tampa Stadium,35000,TampaBayBandits,1985.0,38.0,14.0
+616,Sat,5/19/1984,A,ArizonaWranglers,6-41,L,,"Tempe, AZ",Sun Devil Stadium,21741,DenverGold,1984.0,41.0,6.0
+636,Sat,5/19/1984,H,MemphisShowboats,29-14,W,,"Oakland, CA",Oakland-Alameda County Coliseum,22030,OaklandInvaders,1984.0,14.0,29.0
+442,Sat,5/19/1984,A,PhiladelphiaStars,12-45,L,,"Philadelphia, PA",Veterans Stadium,33194,JacksonvilleBulls,1984.0,45.0,12.0
+904,Sun,5/19/1985,H,ArizonaOutlaws,21-30,L,,"Portland, OR",Civic Stadium,15275,PortlandBreakers,1985.0,30.0,21.0
+944,Sun,5/19/1985,H,BirminghamStallions,7-44,L,,"Los Angeles, CA",Memorial Coliseum,4658,LosAngelesExpress,1985.0,44.0,7.0
+840,Sun,5/19/1985,H,NewJerseyGenerals,28-24,W,,"Denver, CO",Mile High Stadium,29129,DenverGold,1985.0,24.0,28.0
+242,Mon,5/2/1983,A,OaklandInvaders,20-34,L,,"Oakland, CA",Oakland-Alameda County Coliseum,27460,ArizonaWranglers,1983.0,34.0,20.0
+506,Sun,5/20/1984,A,WashingtonFederals,30-14,W,,"Washington, DC",RFK Stadium,6159,SanAntonioGunslingers,1984.0,14.0,30.0
+526,Sun,5/20/1984,A,HoustonGamblers,12-31,L,,"Houston, TX",Astrodome,31142,OklahomaOutlaws,1984.0,31.0,12.0
+566,Sun,5/20/1984,H,MichiganPanthers,24-17,W,,"Los Angeles, CA",Memorial Coliseum,10193,LosAngelesExpress,1984.0,17.0,24.0
+402,Sun,5/20/1984,A,TampaBayBandits,20-31,L,,"Tampa, FL",Tampa Stadium,42592,NewOrleansBreakers,1984.0,31.0,20.0
+862,Mon,5/20/1985,H,JacksonvilleBulls,17-20,L,,"Houston, TX",Astrodome,17127,HoustonGamblers,1985.0,20.0,17.0
+183,Sat,5/21/1983,A,TampaBayBandits,9-29,L,,"Tampa, FL",Tampa Stadium,43389,OaklandInvaders,1983.0,29.0,9.0
+335,Mon,5/21/1984,A,NewJerseyGenerals,14-16,L,,"East Rutherford, NJ",Giants Stadium,41212,PittsburghMaulers,1984.0,16.0,14.0
+1101,Sat,5/21/2022,H,TampaBayBandits,35-28,W,,"Birmingham, AL",Protective Stadium,,PhiladelphiaStars,2022.0,28.0,35.0
+1025,Sat,5/21/2022,A,BirminghamStallions,17-33,L,,"Birmingham, AL",Protective Stadium,,MichiganPanthers,2022.0,33.0,17.0
+225,Sun,5/22/1983,H,LosAngelesExpress,10-14,L,,"Denver, CO",Mile High Stadium,32963,DenverGold,1983.0,14.0,10.0
+121,Sun,5/22/1983,A,NewJerseyGenerals,19-13,W,OT,"East Rutherford, NJ",Giants Stadium,33812,ChicagoBlitz,1983.0,13.0,19.0
+77,Sun,5/22/1983,H,BostonBreakers,14-21,L,,"Washington, DC",RFK Stadium,7303,WashingtonFederals,1983.0,21.0,14.0
+245,Sun,5/22/1983,H,PhiladelphiaStars,7-24,L,,"Tempe, AZ",Sun Devil Stadium,18151,ArizonaWranglers,1983.0,24.0,7.0
+1087,Sun,5/22/2022,H,PittsburghMaulers,26-16,W,,"Birmingham, AL",Protective Stadium,,NewOrleansBreakers,2022.0,16.0,26.0
+1049,Sun,5/22/2022,H,PittsburghMaulers,26-16,W,,"Birmingham, AL",Protective Stadium,,NewOrleansBreakers,2022.0,16.0,26.0
+1063,Sun,5/22/2022,A,NewJerseyGenerals,25-26,L,,"Birmingham, AL",Protective Stadium,,HoustonGamblers,2022.0,26.0,25.0
+971,Sun,5/22/2022,A,NewJerseyGenerals,25-26,L,,"Birmingham, AL",Protective Stadium,,HoustonGamblers,2022.0,26.0,25.0
+163,Mon,5/23/1983,A,MichiganPanthers,23-20,W,OT,"Pontiac, MI",Pontiac Silverdome,20042,BirminghamStallions,1983.0,20.0,23.0
+841,Thu,5/23/1985,H,OaklandInvaders,16-31,L,,"Denver, CO",Mile High Stadium,12372,DenverGold,1985.0,31.0,16.0
+463,Fri,5/25/1984,A,JacksonvilleBulls,54-7,W,,"Jacksonville, FL",Gator Bowl,31638,HoustonGamblers,1984.0,7.0,54.0
+423,Fri,5/25/1984,H,TampaBayBandits,31-21,W,,"Memphis, TN",Liberty Bowl,27422,MemphisShowboats,1984.0,21.0,31.0
+617,Fri,5/25/1984,A,SanAntonioGunslingers,27-20,W,,"San Antonio, TX",Alamo Stadium,20077,DenverGold,1984.0,20.0,27.0
+945,Sat,5/25/1985,A,JacksonvilleBulls,7-21,L,,"Jacksonville, FL",Gator Bowl,51033,LosAngelesExpress,1985.0,21.0,7.0
+905,Sat,5/25/1985,H,MemphisShowboats,17-14,W,,"Portland, OR",Civic Stadium,16682,PortlandBreakers,1985.0,14.0,17.0
+637,Sat,5/26/1984,A,OklahomaOutlaws,17-14,W,,"Tulsa, OK",Skelly Stadium,16378,OaklandInvaders,1984.0,14.0,17.0
+591,Sat,5/26/1984,A,LosAngelesExpress,17-24,L,,"Los Angeles, CA",Memorial Coliseum,11702,ArizonaWranglers,1984.0,24.0,17.0
+885,Sun,5/26/1985,A,HoustonGamblers,20-41,L,,"Houston, TX",Astrodome,12696,ArizonaOutlaws,1985.0,41.0,20.0
+925,Sun,5/26/1985,A,BaltimoreStars,10-28,L,,"College Park, MD",Byrd Stadium,8633,SanAntonioGunslingers,1985.0,28.0,10.0
+753,Sun,5/26/1985,H,NewJerseyGenerals,24-30,L,,"Tampa, FL",Tampa Stadium,32000,TampaBayBandits,1985.0,30.0,24.0
+226,Fri,5/27/1983,H,BirminghamStallions,21-19,W,,"Denver, CO",Mile High Stadium,38829,DenverGold,1983.0,19.0,21.0
+336,Sun,5/27/1984,H,WashingtonFederals,15-6,W,,"Pittsburgh, PA",Three Rivers Stadium,15153,PittsburghMaulers,1984.0,6.0,15.0
+485,Sun,5/27/1984,H,PhiladelphiaStars,13-31,L,,"Pontiac, MI",Pontiac Silverdome,20387,MichiganPanthers,1984.0,31.0,13.0
+403,Sun,5/27/1984,H,BirminghamStallions,14-31,L,,"New Orleans, LA",Louisiana Superdome,23748,NewOrleansBreakers,1984.0,31.0,14.0
+795,Mon,5/27/1985,A,BirminghamStallions,17-41,L,,"Birmingham, AL",Legion Field,24500,OrlandoRenegades,1985.0,41.0,17.0
+547,Mon,5/28/1984,H,NewJerseyGenerals,17-21,L,,"Chicago, IL",Soldier Field,4307,ChicagoBlitz,1984.0,21.0,17.0
+1088,Sat,5/28/2022,A,MichiganPanthers,31-27,W,OT,"Birmingham, AL",Protective Stadium,,NewOrleansBreakers,2022.0,27.0,31.0
+1076,Sat,5/28/2022,H,NewJerseyGenerals,13-20,L,,"Birmingham, AL",Protective Stadium,,TampaBayBandits,2022.0,20.0,13.0
+1050,Sat,5/28/2022,A,MichiganPanthers,31-27,W,OT,"Birmingham, AL",Protective Stadium,,NewOrleansBreakers,2022.0,27.0,31.0
+998,Sat,5/28/2022,H,NewJerseyGenerals,13-20,L,,"Birmingham, AL",Protective Stadium,,TampaBayBandits,2022.0,20.0,13.0
+206,Sun,5/29/1983,A,OaklandInvaders,10-20,L,,"Oakland, CA",Oakland-Alameda County Coliseum,28967,LosAngelesExpress,1983.0,20.0,10.0
+38,Sun,5/29/1983,H,PhiladelphiaStars,21-17,W,,"Boston, MA",Nickerson Field,15668,BostonBreakers,1983.0,17.0,21.0
+78,Sun,5/29/1983,H,NewJerseyGenerals,29-32,L,,"Washington, DC",RFK Stadium,11264,WashingtonFederals,1983.0,32.0,29.0
+1038,Sun,5/29/2022,H,BirminghamStallions,16-26,L,,"Birmingham, AL",Protective Stadium,,PittsburghMaulers,2022.0,26.0,16.0
+1102,Sun,5/29/2022,A,HoustonGamblers,35-24,W,,"Birmingham, AL",Protective Stadium,,PhiladelphiaStars,2022.0,24.0,35.0
+700,Fri,5/3/1985,H,BirminghamStallions,38-24,W,,"Memphis, TN",Liberty Bowl,29025,MemphisShowboats,1985.0,24.0,38.0
+246,Mon,5/30/1983,A,ChicagoBlitz,11-36,L,,"Chicago, IL",Soldier Field,13952,ArizonaWranglers,1983.0,36.0,11.0
+144,Mon,5/30/1983,A,MichiganPanthers,7-43,L,,"Pontiac, MI",Pontiac Silverdome,23976,TampaBayBandits,1983.0,43.0,7.0
+946,Thu,5/30/1985,H,DenverGold,20-27,L,,"Los Angeles, CA",Memorial Coliseum,3059,LosAngelesExpress,1985.0,27.0,20.0
+942,Sat,5/4/1985,H,TampaBayBandits,14-24,L,,"Los Angeles, CA",Memorial Coliseum,4912,LosAngelesExpress,1985.0,24.0,14.0
+634,Sat,5/5/1984,H,DenverGold,20-17,W,OT,"Oakland, CA",Oakland-Alameda County Coliseum,19331,OaklandInvaders,1984.0,17.0,20.0
+564,Sat,5/5/1984,H,PittsburghMaulers,20-12,W,,"Los Angeles, CA",Memorial Coliseum,16789,LosAngelesExpress,1984.0,12.0,20.0
+440,Sat,5/5/1984,H,TampaBayBandits,13-31,L,,"Jacksonville, FL",Gator Bowl,71174,JacksonvilleBulls,1984.0,31.0,13.0
+922,Sun,5/5/1985,H,DenverGold,9-35,L,,"San Antonio, TX",Alamo Stadium,9753,SanAntonioGunslingers,1985.0,35.0,9.0
+812,Sun,5/5/1985,A,OrlandoRenegades,21-7,W,,"Orlando, FL",Orlando Stadium,21085,OaklandInvaders,1985.0,7.0,21.0
+882,Sun,5/5/1985,A,BaltimoreStars,19-24,L,,"College Park, MD",Byrd Stadium,14432,ArizonaOutlaws,1985.0,24.0,19.0
+772,Sun,5/5/1985,H,NewJerseyGenerals,30-20,W,,"Jacksonville, FL",Gator Bowl,60100,JacksonvilleBulls,1985.0,20.0,30.0
+482,Sun,5/6/1984,H,HoustonGamblers,31-28,W,OT,"Pontiac, MI",Pontiac Silverdome,29038,MichiganPanthers,1984.0,28.0,31.0
+544,Sun,5/6/1984,A,SanAntonioGunslingers,21-30,L,,"San Antonio, TX",Alamo Stadium,15231,ChicagoBlitz,1984.0,30.0,21.0
+420,Sun,5/6/1984,A,WashingtonFederals,13-10,W,OT,"Washington, DC",RFK Stadium,4432,MemphisShowboats,1984.0,10.0,13.0
+524,Sun,5/6/1984,A,NewJerseyGenerals,17-49,L,,"East Rutherford, NJ",Giants Stadium,34917,OklahomaOutlaws,1984.0,49.0,17.0
+353,Sun,5/6/1984,H,PhiladelphiaStars,11-43,L,,"Birmingham, AL",Legion Field,49500,BirminghamStallions,1984.0,43.0,11.0
+902,Mon,5/6/1985,H,HoustonGamblers,7-45,L,,"Portland, OR",Civic Stadium,18457,PortlandBreakers,1985.0,45.0,7.0
+1099,Fri,5/6/2022,A,MichiganPanthers,26-25,W,,"Birmingham, AL",Protective Stadium,,PhiladelphiaStars,2022.0,25.0,26.0
+203,Sat,5/7/1983,H,BostonBreakers,23-20,W,,"Los Angeles, CA",Memorial Coliseum,16307,LosAngelesExpress,1983.0,20.0,23.0
+243,Sat,5/7/1983,H,MichiganPanthers,10-21,L,,"Tempe, AZ",Sun Devil Stadium,20423,ArizonaWranglers,1983.0,21.0,10.0
+588,Mon,5/7/1984,A,NewOrleansBreakers,28-13,W,,"New Orleans, LA",Louisiana Superdome,22937,ArizonaWranglers,1984.0,13.0,28.0
+995,Sat,5/7/2022,A,BirminghamStallions,10-16,L,,"Birmingham, AL",Protective Stadium,,TampaBayBandits,2022.0,16.0,10.0
+1035,Sat,5/7/2022,H,NewJerseyGenerals,13-21,L,,"Birmingham, AL",Protective Stadium,,PittsburghMaulers,2022.0,21.0,13.0
+1073,Sat,5/7/2022,A,BirminghamStallions,10-16,L,,"Birmingham, AL",Protective Stadium,,TampaBayBandits,2022.0,16.0,10.0
+181,Sun,5/8/1983,H,TampaBayBandits,10-17,L,,"Oakland, CA",Oakland-Alameda County Coliseum,26989,OaklandInvaders,1983.0,17.0,10.0
+119,Sun,5/8/1983,H,WashingtonFederals,31-3,W,,"Chicago, IL",Soldier Field,11030,ChicagoBlitz,1983.0,3.0,31.0
+223,Sun,5/8/1983,A,PhiladelphiaStars,3-6,L,,"Philadelphia, PA",Veterans Stadium,14306,DenverGold,1983.0,6.0,3.0
+1085,Sun,5/8/2022,H,HoustonGamblers,23-16,W,,"Birmingham, AL",Protective Stadium,,NewOrleansBreakers,2022.0,16.0,23.0
+161,Mon,5/9/1983,A,NewJerseyGenerals,22-7,W,,"East Rutherford, NJ",Giants Stadium,38734,BirminghamStallions,1983.0,7.0,22.0
+508,Fri,6/1/1984,H,MichiganPanthers,17-23,L,OT,"San Antonio, TX",Alamo Stadium,16384,SanAntonioGunslingers,1984.0,23.0,17.0
+424,Fri,6/1/1984,H,NewOrleansBreakers,20-17,W,,"Memphis, TN",Liberty Bowl,31198,MemphisShowboats,1984.0,17.0,20.0
+796,Sat,6/1/1985,H,TampaBayBandits,37-7,W,,"Orlando, FL",Orlando Stadium,26847,OrlandoRenegades,1985.0,7.0,37.0
+926,Sat,6/1/1985,A,ArizonaOutlaws,3-13,L,,"Tempe, AZ",Sun Devil Stadium,11151,SanAntonioGunslingers,1985.0,13.0,3.0
+704,Sat,6/1/1985,A,NewJerseyGenerals,7-17,L,,"East Rutherford, NJ",Giants Stadium,45682,MemphisShowboats,1985.0,17.0,7.0
+405,Sun,6/10/1984,A,NewJerseyGenerals,21-31,L,,"East Rutherford, NJ",Giants Stadium,23114,NewOrleansBreakers,1984.0,31.0,21.0
+549,Sun,6/10/1984,A,HoustonGamblers,13-38,L,,"Houston, TX",Astrodome,24243,ChicagoBlitz,1984.0,38.0,13.0
+358,Sun,6/10/1984,H,WashingtonFederals,42-21,W,,"Birmingham, AL",Legion Field,22100,BirminghamStallions,1984.0,21.0,42.0
+569,Sun,6/10/1984,A,OklahomaOutlaws,17-10,W,,"Tulsa, OK",Skelly Stadium,22017,LosAngelesExpress,1984.0,10.0,17.0
+777,Mon,6/10/1985,A,NewJerseyGenerals,24-31,L,,"East Rutherford, NJ",Giants Stadium,36465,JacksonvilleBulls,1985.0,31.0,24.0
+248,Sat,6/11/1983,H,WashingtonFederals,11-18,L,,"Tempe, AZ",Sun Devil Stadium,16656,ArizonaWranglers,1983.0,18.0,11.0
+509,Mon,6/11/1984,A,PittsburghMaulers,21-3,W,,"Pittsburgh, PA",Three Rivers Stadium,17148,SanAntonioGunslingers,1984.0,3.0,21.0
+974,Sat,6/11/2022,A,BirminghamStallions,17-15,W,,"Birmingham, AL",Protective Stadium,,HoustonGamblers,2022.0,15.0,17.0
+1066,Sat,6/11/2022,A,BirminghamStallions,17-15,W,,"Birmingham, AL",Protective Stadium,,HoustonGamblers,2022.0,15.0,17.0
+1028,Sat,6/11/2022,H,NewJerseyGenerals,23-25,L,,"Birmingham, AL",Protective Stadium,,MichiganPanthers,2022.0,25.0,23.0
+146,Sun,6/12/1983,A,ChicagoBlitz,8-31,L,,"Chicago, IL",Soldier Field,21249,TampaBayBandits,1983.0,31.0,8.0
+208,Sun,6/12/1983,H,MichiganPanthers,17-42,L,,"Los Angeles, CA",Memorial Coliseum,16023,LosAngelesExpress,1983.0,42.0,17.0
+60,Sun,6/12/1983,H,PhiladelphiaStars,9-23,L,,"East Rutherford, NJ",Giants Stadium,32521,NewJerseyGenerals,1983.0,23.0,9.0
+166,Sun,6/12/1983,H,BostonBreakers,31-19,W,,"Birmingham, AL",Legion Field,20500,BirminghamStallions,1983.0,19.0,31.0
+1104,Sun,6/12/2022,A,PittsburghMaulers,17-16,W,,"Birmingham, AL",Protective Stadium,,PhiladelphiaStars,2022.0,16.0,17.0
+1090,Sun,6/12/2022,H,TampaBayBandits,17-6,W,,"Birmingham, AL",Protective Stadium,,NewOrleansBreakers,2022.0,6.0,17.0
+228,Mon,6/13/1983,A,OaklandInvaders,10-16,L,,"Oakland, CA",Oakland-Alameda County Coliseum,26840,DenverGold,1983.0,16.0,10.0
+908,Fri,6/14/1985,H,DenverGold,23-17,W,,"Portland, OR",Civic Stadium,18953,PortlandBreakers,1985.0,17.0,23.0
+594,Fri,6/15/1984,A,ChicagoBlitz,36-0,W,,"Chicago, IL",Soldier Field,5711,ArizonaWranglers,1984.0,0.0,36.0
+640,Fri,6/15/1984,A,LosAngelesExpress,19-24,L,,"Los Angeles, CA",Memorial Coliseum,14794,OaklandInvaders,1984.0,24.0,19.0
+319,Fri,6/15/1984,A,PhiladelphiaStars,8-31,L,,"Philadelphia, PA",Veterans Stadium,22582,WashingtonFederals,1984.0,31.0,8.0
+446,Fri,6/15/1984,A,NewOrleansBreakers,20-17,W,OT,"New Orleans, LA",Louisiana Superdome,21233,JacksonvilleBulls,1984.0,17.0,20.0
+756,Sat,6/15/1985,H,BirminghamStallions,17-14,W,,"Tampa, FL",Tampa Stadium,24000,TampaBayBandits,1985.0,14.0,17.0
+778,Sat,6/15/1985,A,MemphisShowboats,0-31,L,,"Memphis, TN",Liberty Bowl,31634,JacksonvilleBulls,1985.0,31.0,0.0
+798,Sat,6/15/1985,A,BaltimoreStars,10-41,L,,"College Park, MD",Byrd Stadium,6988,OrlandoRenegades,1985.0,41.0,10.0
+818,Sat,6/15/1985,H,NewJerseyGenerals,34-29,W,,"Oakland, CA",Oakland-Alameda County Coliseum,24338,OaklandInvaders,1985.0,29.0,34.0
+948,Sat,6/15/1985,H,ArizonaOutlaws,10-21,L,,"Los Angeles, CA",Shephard Stadium,8200,LosAngelesExpress,1985.0,21.0,10.0
+383,Sat,6/16/1984,A,PittsburghMaulers,21-9,W,,"Pittsburgh, PA",Three Rivers Stadium,16832,TampaBayBandits,1984.0,9.0,21.0
+620,Sat,6/16/1984,A,NewJerseyGenerals,7-27,L,,"East Rutherford, NJ",Giants Stadium,28915,DenverGold,1984.0,27.0,7.0
+426,Sat,6/16/1984,H,BirminghamStallions,20-35,L,,"Memphis, TN",Liberty Bowl,50079,MemphisShowboats,1984.0,35.0,20.0
+167,Fri,6/17/1983,H,ChicagoBlitz,14-29,L,,"Birmingham, AL",Legion Field,22500,BirminghamStallions,1983.0,29.0,14.0
+249,Fri,6/17/1983,A,DenverGold,6-32,L,,"Denver, CO",Mile High Stadium,42621,ArizonaWranglers,1983.0,32.0,6.0
+209,Fri,6/17/1983,A,NewJerseyGenerals,13-20,L,,"East Rutherford, NJ",Giants Stadium,31807,LosAngelesExpress,1983.0,20.0,13.0
+928,Mon,6/17/1985,A,HoustonGamblers,21-49,L,,"Houston, TX",Astrodome,11780,SanAntonioGunslingers,1985.0,49.0,21.0
+530,Mon,6/18/1984,A,MichiganPanthers,24-34,L,,"Pontiac, MI",Pontiac Silverdome,15838,OklahomaOutlaws,1984.0,34.0,24.0
+510,Mon,6/18/1984,A,HoustonGamblers,26-29,L,,"Houston, TX",Astrodome,30184,SanAntonioGunslingers,1984.0,29.0,26.0
+1013,Sat,6/18/2022,A,NewJerseyGenerals,23-26,L,,"Birmingham, AL",Legion Field,,PhiladelphiaStars,2022.0,26.0,23.0
+1001,Sat,6/18/2022,H,BirminghamStallions,18-21,L,,"Birmingham, AL",Legion Field,,TampaBayBandits,2022.0,21.0,18.0
+1105,Sat,6/18/2022,A,NewJerseyGenerals,23-26,L,,"Birmingham, AL",Legion Field,,PhiladelphiaStars,2022.0,26.0,23.0
+1079,Sat,6/18/2022,H,BirminghamStallions,18-21,L,,"Birmingham, AL",Legion Field,,TampaBayBandits,2022.0,21.0,18.0
+147,Sun,6/19/1983,A,BostonBreakers,17-24,L,,"Boston, MA",Nickerson Field,15530,TampaBayBandits,1983.0,24.0,17.0
+1091,Sun,6/19/2022,A,HoustonGamblers,3-20,L,,"Birmingham, AL",Legion Field,,NewOrleansBreakers,2022.0,20.0,3.0
+1041,Sun,6/19/2022,H,MichiganPanthers,21-33,L,,"Birmingham, AL",Legion Field,,PittsburghMaulers,2022.0,33.0,21.0
+638,Sat,6/2/1984,H,JacksonvilleBulls,17-12,W,,"Oakland, CA",Oakland-Alameda County Coliseum,29687,OaklandInvaders,1984.0,12.0,17.0
+548,Sat,6/2/1984,A,OklahomaOutlaws,14-0,W,,"Tulsa, OK",Skelly Stadium,17195,ChicagoBlitz,1984.0,0.0,14.0
+776,Sun,6/2/1985,A,BaltimoreStars,12-17,L,,"College Park, MD",Byrd Stadium,9663,JacksonvilleBulls,1985.0,17.0,12.0
+906,Sun,6/2/1985,A,OaklandInvaders,20-38,L,,"Oakland, CA",Oakland-Alameda County Coliseum,12740,PortlandBreakers,1985.0,38.0,20.0
+187,Mon,6/20/1983,A,PhiladelphiaStars,6-12,L,,"Philadelphia, PA",Veterans Stadium,16933,OaklandInvaders,1983.0,12.0,6.0
+101,Mon,6/20/1983,H,WashingtonFederals,27-25,W,,"Pontiac, MI",Pontiac Silverdome,26418,MichiganPanthers,1983.0,25.0,27.0
+949,Fri,6/21/1985,A,OrlandoRenegades,10-17,L,,"Orlando, FL",Orlando Stadium,22865,LosAngelesExpress,1985.0,17.0,10.0
+447,Fri,6/22/1984,H,PittsburghMaulers,26-2,W,,"Jacksonville, FL",Gator Bowl,31843,JacksonvilleBulls,1984.0,2.0,26.0
+641,Fri,6/22/1984,A,DenverGold,7-20,L,,"Denver, CO",Mile High Stadium,32623,OaklandInvaders,1984.0,20.0,7.0
+889,Sat,6/22/1985,A,MemphisShowboats,28-38,L,,"Memphis, TN",Liberty Bowl,32743,ArizonaOutlaws,1985.0,38.0,28.0
+595,Sat,6/23/1984,H,LosAngelesExpress,35-10,W,,"Tempe, AZ",Sun Devil Stadium,35258,ArizonaWranglers,1984.0,10.0,35.0
+845,Sun,6/23/1985,A,JacksonvilleBulls,6-42,L,,"Jacksonville, FL",Gator Bowl,32428,DenverGold,1985.0,42.0,6.0
+757,Sun,6/23/1985,A,BaltimoreStars,10-38,L,,"College Park, MD",Byrd Stadium,12647,TampaBayBandits,1985.0,38.0,10.0
+685,Sun,6/23/1985,H,BirminghamStallions,6-14,L,,"East Rutherford, NJ",Giants Stadium,44098,NewJerseyGenerals,1985.0,14.0,6.0
+929,Sun,6/23/1985,H,PortlandBreakers,21-13,W,,"San Antonio, TX",Alamo Stadium,19603,SanAntonioGunslingers,1985.0,13.0,21.0
+531,Sun,6/24/1984,A,SanAntonioGunslingers,0-23,L,,"San Antonio, TX",Alamo Stadium,21625,OklahomaOutlaws,1984.0,23.0,0.0
+298,Sun,6/24/1984,A,PhiladelphiaStars,16-10,W,,"Philadelphia, PA",Veterans Stadium,37758,NewJerseyGenerals,1984.0,10.0,16.0
+551,Sun,6/24/1984,H,MichiganPanthers,17-20,L,,"Chicago, IL",Soldier Field,5557,ChicagoBlitz,1984.0,20.0,17.0
+407,Sun,6/24/1984,A,WashingtonFederals,17-20,L,,"Washington, DC",RFK Stadium,6386,NewOrleansBreakers,1984.0,20.0,17.0
+384,Sun,6/24/1984,A,BirminghamStallions,17-16,W,,"Birmingham, AL",Legion Field,24500,TampaBayBandits,1984.0,16.0,17.0
+867,Mon,6/24/1985,H,OaklandInvaders,21-31,L,,"Houston, TX",Astrodome,15797,HoustonGamblers,1985.0,31.0,21.0
+188,Sat,6/25/1983,H,BostonBreakers,17-16,W,,"Oakland, CA",Oakland-Alameda County Coliseum,30396,OaklandInvaders,1983.0,16.0,17.0
+250,Sat,6/25/1983,A,NewJerseyGenerals,14-21,L,,"East Rutherford, NJ",Giants Stadium,30612,ArizonaWranglers,1983.0,21.0,14.0
+467,Mon,6/25/1984,H,MemphisShowboats,37-3,W,,"Houston, TX",Astrodome,22963,HoustonGamblers,1984.0,3.0,37.0
+989,Sat,6/25/2022,A,BirminghamStallions,17-31,L,,"Canton, OH",Tom Benson Hall of Fame Stadium,,NewOrleansBreakers,2022.0,31.0,17.0
+1015,Sat,6/25/2022,A,NewJerseyGenerals,19-14,W,,"Canton, OH",Tom Benson Hall of Fame Stadium,,PhiladelphiaStars,2022.0,14.0,19.0
+1107,Sat,6/25/2022,A,NewJerseyGenerals,19-14,W,,"Canton, OH",Tom Benson Hall of Fame Stadium,,PhiladelphiaStars,2022.0,14.0,19.0
+1055,Sat,6/25/2022,A,BirminghamStallions,17-31,L,,"Canton, OH",Tom Benson Hall of Fame Stadium,,NewOrleansBreakers,2022.0,31.0,17.0
+1093,Sat,6/25/2022,A,BirminghamStallions,17-31,L,,"Canton, OH",Tom Benson Hall of Fame Stadium,,NewOrleansBreakers,2022.0,31.0,17.0
+168,Sun,6/26/1983,A,PhiladelphiaStars,10-31,L,,"Philadelphia, PA",Veterans Stadium,17973,BirminghamStallions,1983.0,31.0,10.0
+126,Sun,6/26/1983,H,MichiganPanthers,19-34,L,,"Chicago, IL",Soldier Field,25041,ChicagoBlitz,1983.0,34.0,19.0
+210,Sun,6/26/1983,A,WashingtonFederals,21-28,L,,"Washington, DC",RFK Stadium,9792,LosAngelesExpress,1983.0,28.0,21.0
+230,Mon,6/27/1983,A,TampaBayBandits,23-26,L,,"Tampa, FL",Tampa Stadium,46128,DenverGold,1983.0,26.0,23.0
+869,Sat,6/29/1985,A,BirminghamStallions,20-22,L,,"Birmingham, AL",Legion Field,18500,HoustonGamblers,1985.0,22.0,20.0
+227,Fri,6/3/1983,H,WashingtonFederals,24-12,W,,"Denver, CO",Mile High Stadium,40671,DenverGold,1983.0,12.0,24.0
+592,Sun,6/3/1984,A,BirminghamStallions,38-28,W,,"Birmingham, AL",Legion Field,32500,ArizonaWranglers,1984.0,28.0,38.0
+568,Sun,6/3/1984,A,WashingtonFederals,35-21,W,,"Washington, DC",RFK Stadium,5263,LosAngelesExpress,1984.0,21.0,35.0
+381,Sun,6/3/1984,H,NewJerseyGenerals,40-14,W,,"Tampa, FL",Tampa Stadium,45255,TampaBayBandits,1984.0,14.0,40.0
+618,Sun,6/3/1984,H,HoustonGamblers,20-36,L,,"Denver, CO",Mile High Stadium,50057,DenverGold,1984.0,36.0,20.0
+864,Mon,6/3/1985,H,BirminghamStallions,27-29,L,,"Houston, TX",Astrodome,13202,HoustonGamblers,1985.0,29.0,27.0
+1039,Fri,6/3/2022,A,NewJerseyGenerals,18-29,L,,"Birmingham, AL",Legion Field,,PittsburghMaulers,2022.0,29.0,18.0
+300,Sat,6/30/1984,A,PhiladelphiaStars,7-28,L,,"Philadelphia, PA",Franklin Field,19038,NewJerseyGenerals,1984.0,28.0,7.0
+573,Sat,6/30/1984,H,MichiganPanthers,27-21,W,3OT,"Los Angeles, CA",Memorial Coliseum,7964,LosAngelesExpress,1984.0,21.0,27.0
+821,Sun,6/30/1985,H,TampaBayBandits,30-27,W,,"Oakland, CA",Oakland-Alameda County Coliseum,19346,OaklandInvaders,1985.0,27.0,30.0
+847,Sun,6/30/1985,A,MemphisShowboats,7-48,L,,"Memphis, TN",Liberty Bowl,34528,DenverGold,1985.0,48.0,7.0
+185,Sat,6/4/1983,H,NewJerseyGenerals,34-21,W,,"Oakland, CA",Oakland-Alameda County Coliseum,32908,OaklandInvaders,1983.0,21.0,34.0
+337,Mon,6/4/1984,A,PhiladelphiaStars,17-23,L,,"Philadelphia, PA",Veterans Stadium,30102,PittsburghMaulers,1984.0,23.0,17.0
+985,Sat,6/4/2022,A,BirminghamStallions,9-10,L,,"Birmingham, AL",Legion Field,,NewOrleansBreakers,2022.0,10.0,9.0
+1051,Sat,6/4/2022,A,BirminghamStallions,9-10,L,,"Birmingham, AL",Legion Field,,NewOrleansBreakers,2022.0,10.0,9.0
+1089,Sat,6/4/2022,A,BirminghamStallions,9-10,L,,"Birmingham, AL",Legion Field,,NewOrleansBreakers,2022.0,10.0,9.0
+99,Sun,6/5/1983,A,PhiladelphiaStars,20-29,L,,"Philadelphia, PA",Veterans Stadium,19727,MichiganPanthers,1983.0,29.0,20.0
+165,Sun,6/5/1983,A,TampaBayBandits,17-45,L,,"Tampa, FL",Tampa Stadium,35623,BirminghamStallions,1983.0,45.0,17.0
+247,Sun,6/5/1983,A,LosAngelesExpress,13-17,L,,"Los Angeles, CA",Memorial Coliseum,13826,ArizonaWranglers,1983.0,17.0,13.0
+1103,Sun,6/5/2022,H,MichiganPanthers,46-24,W,,"Birmingham, AL",Legion Field,,PhiladelphiaStars,2022.0,24.0,46.0
+1077,Sun,6/5/2022,H,HoustonGamblers,13-3,W,,"Birmingham, AL",Legion Field,,TampaBayBandits,2022.0,3.0,13.0
+123,Mon,6/6/1983,A,BostonBreakers,15-21,L,,"Boston, MA",Nickerson Field,15087,ChicagoBlitz,1983.0,21.0,15.0
+797,Fri,6/7/1985,A,MemphisShowboats,17-41,L,,"Memphis, TN",Liberty Bowl,23216,OrlandoRenegades,1985.0,41.0,17.0
+593,Fri,6/8/1984,H,JacksonvilleBulls,45-14,W,,"Tempe, AZ",Sun Devil Stadium,15513,ArizonaWranglers,1984.0,14.0,45.0
+619,Fri,6/8/1984,H,PhiladelphiaStars,19-21,L,,"Denver, CO",Mile High Stadium,30755,DenverGold,1984.0,21.0,19.0
+887,Sat,6/8/1985,H,OaklandInvaders,28-21,W,,"Tempe, AZ",Sun Devil Stadium,10591,ArizonaOutlaws,1985.0,21.0,28.0
+907,Sat,6/8/1985,H,TampaBayBandits,27-24,W,,"Portland, OR",Civic Stadium,15521,PortlandBreakers,1985.0,24.0,27.0
+729,Sat,6/8/1985,A,BirminghamStallions,7-14,L,,"Birmingham, AL",Legion Field,24300,BaltimoreStars,1985.0,14.0,7.0
+639,Sat,6/9/1984,H,MichiganPanthers,20-13,W,,"Oakland, CA",Oakland-Alameda County Coliseum,23918,OaklandInvaders,1984.0,13.0,20.0
+425,Sat,6/9/1984,A,TampaBayBandits,24-42,L,,"Tampa, FL",Tampa Stadium,48785,MemphisShowboats,1984.0,42.0,24.0
+865,Sun,6/9/1985,A,DenverGold,13-16,L,,"Denver, CO",Mile High Stadium,12553,HoustonGamblers,1985.0,16.0,13.0
+947,Sun,6/9/1985,A,SanAntonioGunslingers,27-31,L,,"San Antonio, TX",Alamo Stadium,4963,LosAngelesExpress,1985.0,31.0,27.0
+386,Sun,7/1/1984,A,BirminghamStallions,17-36,L,,"Birmingham, AL",Legion Field,32000,TampaBayBandits,1984.0,36.0,17.0
+597,Sun,7/1/1984,A,HoustonGamblers,17-16,W,,"Houston, TX",Astrodome,32713,ArizonaWranglers,1984.0,16.0,17.0
+733,Mon,7/1/1985,A,NewJerseyGenerals,20-17,W,,"East Rutherford, NJ",Giants Stadium,26982,BaltimoreStars,1985.0,17.0,20.0
+191,Sun,7/10/1983,A,MichiganPanthers,21-37,L,,"Pontiac, MI",Pontiac Silverdome,60237,OaklandInvaders,1983.0,37.0,21.0
+825,Sun,7/14/1985,N,BaltimoreStars,24-28,L,,"East Rutherford, NJ",Giants Stadium,49263,OaklandInvaders,1985.0,28.0,24.0
+601,Sun,7/15/1984,N,PhiladelphiaStars,3-23,L,,"Tampa, FL",Tampa Stadium,52661,ArizonaWranglers,1984.0,23.0,3.0
+107,Sun,7/17/1983,N,PhiladelphiaStars,24-22,W,,"Denver, CO",Mile High Stadium,50906,MichiganPanthers,1983.0,22.0,24.0
+169,Sat,7/2/1983,H,TampaBayBandits,29-17,W,,"Birmingham, AL",Legion Field,20300,BirminghamStallions,1983.0,17.0,29.0
+387,Sat,7/21/1984,N,PhiladelphiaStars,21-24,L,,"London, England",Wembley Stadium,21000,TampaBayBandits,1984.0,24.0,21.0
+251,Sat,7/3/1983,A,MichiganPanthers,7-33,L,,"Pontiac, MI",Pontiac Silverdome,31905,ArizonaWranglers,1983.0,33.0,7.0
+231,Sun,7/3/1983,A,LosAngelesExpress,14-21,L,,"Los Angeles, CA",Memorial Coliseum,11471,DenverGold,1983.0,21.0,14.0
+189,Sun,7/3/1983,A,ChicagoBlitz,7-31,L,,"Chicago, IL",Soldier Field,12346,OaklandInvaders,1983.0,31.0,7.0
+63,Sun,7/3/1983,A,BostonBreakers,10-34,L,,"Boston, MA",Nickerson Field,15798,NewJerseyGenerals,1983.0,34.0,10.0
+83,Sun,7/3/1983,H,PhiladelphiaStars,21-14,W,,"Washington, DC",RFK Stadium,11039,WashingtonFederals,1983.0,14.0,21.0
+1109,Sun,7/3/2022,H,BirminghamStallions,33-30,W,,"Canton, OH",Tom Benson Hall of Fame Stadium,,PhiladelphiaStars,2022.0,30.0,33.0
+1017,Sun,7/3/2022,H,BirminghamStallions,33-30,W,,"Canton, OH",Tom Benson Hall of Fame Stadium,,PhiladelphiaStars,2022.0,30.0,33.0
+823,Sat,7/6/1985,A,MemphisShowboats,28-19,W,,"Memphis, TN",Liberty Bowl,37796,OaklandInvaders,1985.0,19.0,28.0
+599,Sat,7/7/1984,H,LosAngelesExpress,35-25,W,,"Tempe, AZ",Sun Devil Stadium,33188,ArizonaWranglers,1984.0,25.0,35.0
+735,Sun,7/7/1985,A,BirminghamStallions,28-14,W,,"Birmingham, AL",Legion Field,23250,BaltimoreStars,1985.0,14.0,28.0
+364,Sun,7/8/1984,A,PhiladelphiaStars,10-20,L,,"Philadelphia, PA",Franklin Field,26616,BirminghamStallions,1984.0,20.0,10.0
+129,Sat,7/9/1983,A,PhiladelphiaStars,38-44,L,OT,"Philadelphia, PA",Veterans Stadium,15684,ChicagoBlitz,1983.0,44.0,38.0
